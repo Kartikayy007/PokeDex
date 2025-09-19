@@ -119,7 +119,7 @@ Pok-dex/
 ### Option 1: The Developer Way
 ```bash
 # Clone this bad boy
-git clone https://github.com/yourusername/Pok-dex.git
+git clone https://github.com/kartikayy007/Pok-dex.git
 
 # Navigate to greatness
 cd Pok-dex
